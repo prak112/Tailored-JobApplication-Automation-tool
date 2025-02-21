@@ -1,6 +1,7 @@
 # application files and logs
 /generated_cv
 /log/*
+/data_folder/secrets.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
